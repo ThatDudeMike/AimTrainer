@@ -1,0 +1,20 @@
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\Definitions.AimTrainer.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\Public\Gun.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\Public\Weapon.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/SkeletalMeshActor.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeAnimInterface.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MatineeAnimInterface.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SkeletalMeshActor.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Inc\AimTrainer\Weapon.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Inc\AimTrainer\Gun.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\Public\Projectile.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Inc\AimTrainer\Projectile.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

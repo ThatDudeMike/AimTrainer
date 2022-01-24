@@ -1,0 +1,2 @@
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\Definitions.AimTrainer.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\AimTrainer.h

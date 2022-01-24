@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mgagn\Documents\GitHub\AimTrainer).
+  Building AimTrainerEditor...
+  Using Visual Studio 2019 14.29.30138 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] TrainerGameMode.cpp
+    [2/4] UE4Editor-AimTrainer-0010.lib
+       Creating library C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\UE4Editor-AimTrainer-0010.lib and object C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\UE4Editor-AimTrainer-0010.exp
+    [3/4] UE4Editor-AimTrainer-0010.dll
+       Creating library C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\UE4Editor-AimTrainer-0010.suppressed.lib and object C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\UE4Editor-AimTrainer-0010.suppressed.exp
+    [4/4] AimTrainerEditor.target
+  Total time in Parallel executor: 2.12 seconds
+  Total execution time: 2.77 seconds

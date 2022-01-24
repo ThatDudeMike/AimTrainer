@@ -1,0 +1,7 @@
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\Definitions.AimTrainer.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\Public\Weapon.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Animation/SkeletalMeshActor.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeAnimInterface.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MatineeAnimInterface.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SkeletalMeshActor.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Inc\AimTrainer\Weapon.generated.h

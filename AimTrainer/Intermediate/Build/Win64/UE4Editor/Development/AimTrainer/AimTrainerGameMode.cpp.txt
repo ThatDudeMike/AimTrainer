@@ -1,0 +1,22 @@
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Development\AimTrainer\Definitions.AimTrainer.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\AimTrainerGameMode.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Inc\AimTrainer\AimTrainerGameMode.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\AimTrainerHUD.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Inc\AimTrainer\AimTrainerHUD.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Source\AimTrainer\AimTrainerCharacter.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Epic\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\mgagn\Documents\GitHub\AimTrainer\AimTrainer\Intermediate\Build\Win64\UE4Editor\Inc\AimTrainer\AimTrainerCharacter.generated.h

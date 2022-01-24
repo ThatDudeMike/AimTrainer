@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AimTrainer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7723D3C7-2140-4140-B816-BAD6E3A6D626}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AimTrainer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AimTrainerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{22159619-1338-459E-BC70-8BC0110195C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AimTrainer">
+      <UniqueIdentifier>{0FCCFFAD-CDE4-4571-8A53-23AA06E69E6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AimTrainer\AimTrainer.Build.cs">
+      <Filter>Source\AimTrainer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AimTrainer\AimTrainer.cpp">
+      <Filter>Source\AimTrainer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AimTrainer\AimTrainer.h">
+      <Filter>Source\AimTrainer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AimTrainer\AimTrainerCharacter.cpp">
+      <Filter>Source\AimTrainer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AimTrainer\AimTrainerCharacter.h">
+      <Filter>Source\AimTrainer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AimTrainer\AimTrainerGameMode.cpp">
+      <Filter>Source\AimTrainer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AimTrainer\AimTrainerGameMode.h">
+      <Filter>Source\AimTrainer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AimTrainer\AimTrainerHUD.cpp">
+      <Filter>Source\AimTrainer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AimTrainer\AimTrainerHUD.h">
+      <Filter>Source\AimTrainer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AimTrainer\AimTrainerProjectile.cpp">
+      <Filter>Source\AimTrainer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AimTrainer\AimTrainerProjectile.h">
+      <Filter>Source\AimTrainer</Filter>
+    </ClInclude>
+    <Filter Include="Source\AimTrainer\Private">
+      <UniqueIdentifier>{C7188E48-28A3-49CE-8839-821FD53D62C2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\BaseCharacter.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\BasePlayerController.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\BaseTrainerUI.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\Gun.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\Projectile.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\Target.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\TrainerGameMode.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AimTrainer\Private\Weapon.cpp">
+      <Filter>Source\AimTrainer\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\AimTrainer\Public">
+      <UniqueIdentifier>{99F76018-15EE-4F2E-8CB6-610E1B498B9B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\BaseCharacter.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\BasePlayerController.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\BaseTrainerUI.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\Gun.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\Projectile.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\Target.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\TrainerGameMode.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AimTrainer\Public\Weapon.h">
+      <Filter>Source\AimTrainer\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

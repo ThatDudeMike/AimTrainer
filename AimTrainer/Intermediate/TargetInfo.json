@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AimTrainer",
+			"Path": "C:\\Users\\mgagn\\Documents\\GitHub\\AimTrainer\\AimTrainer\\Source\\AimTrainer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AimTrainerEditor",
+			"Path": "C:\\Users\\mgagn\\Documents\\GitHub\\AimTrainer\\AimTrainer\\Source\\AimTrainerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
